@@ -13,7 +13,7 @@ public class AtividadeSala3{
 			System.out.printf("Digite um numero: ");
 			tentativa = input.nextInt();
 			if (tentativa == acerto){
-				System.out.printf("Voce acertou Parabens vlw flw ");
+				System.out.printf("Voce acertou Parabens!");
 				numerotentativa = 0;						
 			}else {
 				numerotentativa--;
