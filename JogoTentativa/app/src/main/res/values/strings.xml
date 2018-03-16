@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">JogoTentativa</string>
+    <string name="app_name">AdivinhaNumero</string>
+    <string name="lblOi">Adivinhe um número de 1 a 10. Você possui apenas 3 chances, cuidado!!</string>
+    <string name="lblRecebe"> ... </string>
+    <string name="lblConfirma"> OK </string>
+    <string name="lblResultado">   </string>
+    <string name="lblResultado2"> ACERTOU!!! </string>
+    <string name="lblResultado3"> ERROU! Sinto muito.  </string>
+    <string name="lblResultado4"> Acabou suas tentativas!  </string>
 </resources>

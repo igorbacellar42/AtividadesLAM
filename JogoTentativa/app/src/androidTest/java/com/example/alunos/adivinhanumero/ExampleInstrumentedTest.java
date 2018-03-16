@@ -1,4 +1,4 @@
-package com.example.alunos.jogotentativa;
+package com.example.alunos.adivinhanumero;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.alunos.jogotentativa", appContext.getPackageName());
+        assertEquals("com.example.alunos.adivinhanumero", appContext.getPackageName());
     }
 }
