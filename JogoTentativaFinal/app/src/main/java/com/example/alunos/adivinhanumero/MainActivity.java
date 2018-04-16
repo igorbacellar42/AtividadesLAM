@@ -1,4 +1,4 @@
-package com.example.alunos.jogotentativa;
+package com.example.alunos.adivinhanumero;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
